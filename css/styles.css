@@ -77,3 +77,8 @@ body {
     border-bottom: 0;
   }
 }
+
+.card {
+  padding: 10px;
+  margin-bottom: 10px;
+}
